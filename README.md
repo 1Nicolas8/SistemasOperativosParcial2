@@ -3,3 +3,8 @@ simulado del algoritmo MLFQ, la implementación en C tiene un mejor rendimiento 
 debido a las características de ser un lenguaje compilado a código máquina nativo.
 
 ![image](https://github.com/1Nicolas8/SistemasOperativosParcial2/assets/118906463/99e30f35-49de-4e3f-a98d-2f3d2ac4fc56)
+
+
+Integrantes:
+Michael Medina
+Nicolas Torrente
